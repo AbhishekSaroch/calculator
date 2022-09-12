@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.text-center{
+    text-align: center;
+     font-family: 'Poppins', sans-serif;
+    
+}
+.bgred{
+    
+    margin: auto;
+    
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.alignitems{
+    align-items: center;
+}
+.input{
+    padding: 9px 28px;
+    border: 2px solid black;
+    margin-bottom: 5px;
+    font-size: 13px;
+    width: 217px;
+}
